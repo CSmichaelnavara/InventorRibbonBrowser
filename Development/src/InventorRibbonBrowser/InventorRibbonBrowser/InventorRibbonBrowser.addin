@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+	<!--Created for Autodesk Inventor Version 24.0-->
+	<ClassId>{4c566814-74c9-4805-97fa-49e305991251}</ClassId>
+	<ClientId>{4c566814-74c9-4805-97fa-49e305991251}</ClientId>
+	<DisplayName>InventorRibbonBrowser</DisplayName>
+	<Description >InventorRibbonBrowser</Description>
+	<Assembly>InventorRibbonBrowser.dll</Assembly>
+	<LoadOnStartUp>1</LoadOnStartUp>
+	<UserUnloadable>1</UserUnloadable>
+	<Hidden>0</Hidden>
+	<SupportedSoftwareVersionGreaterThan>25..</SupportedSoftwareVersionGreaterThan>
+	<DataVersion>1</DataVersion>
+	<UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
